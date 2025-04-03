@@ -1,0 +1,13 @@
+.card{
+    width: 18rem;
+    height: 30rem;
+}
+
+img.card-img-top{
+    max-width: fit-content;
+    height: 14rem;
+    object-fit: cover; 
+
+
+
+}
